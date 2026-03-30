@@ -1,0 +1,7 @@
+,delta_psi_mV,delta_psi_mV,matrix_ca_au,matrix_ca_au,mtROS_au,mtROS_au,CypD_activity_au,CypD_activity_au,ANT_function_au,ANT_function_au,ATPsynthase_pore_propensity_au,ATPsynthase_pore_propensity_au,crc_au,crc_au,threshold_ca_uM,threshold_ca_uM,leakage_auc,leakage_auc,conductance_au,conductance_au,sustained_pore_prob,sustained_pore_prob,ATP_index,ATP_index,mtDNA_release_proxy,mtDNA_release_proxy,viability_proxy,viability_proxy
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+state,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cancer_Stress_Adapted,147.284,12.69,0.497,0.113,0.547,0.119,0.422,0.127,0.602,0.155,0.476,0.142,0.966,0.123,172.618,17.094,0.918,0.096,0.929,0.105,0.663,0.086,0.721,0.073,1.098,0.128,0.756,0.068
+Cancer_Therapy_Naive,149.759,11.235,0.426,0.101,0.402,0.099,0.556,0.137,0.646,0.154,0.578,0.146,1.042,0.108,184.448,15.775,0.945,0.085,1.023,0.104,0.739,0.076,0.721,0.067,1.136,0.117,0.745,0.065
+Cardiac_Control,164.743,8.007,0.282,0.079,0.223,0.074,0.475,0.135,0.782,0.151,0.424,0.146,1.282,0.096,215.574,13.435,0.741,0.094,0.865,0.114,0.552,0.092,0.865,0.055,0.867,0.126,0.891,0.061
+Cardiac_Ischemia_Reperfusion,117.562,17.982,0.865,0.122,0.878,0.123,0.776,0.137,0.723,0.153,0.771,0.136,0.456,0.119,107.71,16.315,1.284,0.061,1.315,0.072,0.964,0.015,0.443,0.083,1.57,0.074,0.487,0.058
